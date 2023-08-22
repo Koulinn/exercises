@@ -17,8 +17,10 @@ Header
 HERO
 Movies sections (per category)
 
-A simple footer (you can pick)
+A simple footer (you can be creative)
 
 
 Main goal practice CSS responsiveness and clean coding.
+
+Search bar, select by category and details page are extras and the next steps
 
